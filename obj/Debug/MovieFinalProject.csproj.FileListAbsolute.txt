@@ -1,0 +1,9 @@
+C:\Users\Dhruti\Documents\Visual Studio 2015\Projects\MovieFinalProject\MovieFinalProject\bin\Debug\MovieFinalProject.exe.config
+C:\Users\Dhruti\Documents\Visual Studio 2015\Projects\MovieFinalProject\MovieFinalProject\bin\Debug\MovieFinalProject.exe
+C:\Users\Dhruti\Documents\Visual Studio 2015\Projects\MovieFinalProject\MovieFinalProject\bin\Debug\MovieFinalProject.pdb
+C:\Users\Dhruti\Documents\Visual Studio 2015\Projects\MovieFinalProject\MovieFinalProject\obj\Debug\MovieFinalProject.Cineplex.resources
+C:\Users\Dhruti\Documents\Visual Studio 2015\Projects\MovieFinalProject\MovieFinalProject\obj\Debug\MovieFinalProject.Properties.Resources.resources
+C:\Users\Dhruti\Documents\Visual Studio 2015\Projects\MovieFinalProject\MovieFinalProject\obj\Debug\MovieFinalProject.csproj.GenerateResource.Cache
+C:\Users\Dhruti\Documents\Visual Studio 2015\Projects\MovieFinalProject\MovieFinalProject\obj\Debug\MovieFinalProject.exe
+C:\Users\Dhruti\Documents\Visual Studio 2015\Projects\MovieFinalProject\MovieFinalProject\obj\Debug\MovieFinalProject.pdb
+C:\Users\Dhruti\Documents\Visual Studio 2015\Projects\MovieFinalProject\MovieFinalProject\obj\Debug\MovieFinalProject.csprojResolveAssemblyReference.cache
